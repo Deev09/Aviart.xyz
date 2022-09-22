@@ -194,9 +194,9 @@ show_img_compar(img2, palette_perc(clt_2))
 
 # dictionary extraction, take the images key value pairs with file paths to compare with the shortest path
 
-listo = {"LIGHT": "/Users/deevyaswain/Desktop/avi/new/color_layers/peach.jpg", "BROWN": "/Users/deevyaswain/Desktop/avi/new/color_layers/brown.jpg", 
-"MID":"/Users/deevyaswain/Desktop/avi/new/color_layers/midtone.jpg", "DARK": "/Users/deevyaswain/Desktop/avi/new/color_layers/ashbrown.jpg",
- "OLIVE" : "/Users/deevyaswain/Desktop/avi/new/color_layers/olive.jpg" }
+listo = {"LIGHT": ".../color_layers/peach.jpg", "BROWN": ".../color_layers/brown.jpg", 
+"MID":".../color_layers/midtone.jpg", "DARK": ".../color_layers/ashbrown.jpg",
+ "OLIVE" : ".../color_layers/olive.jpg" }
 
 
 image = cv2.imread('pic.jpg')
