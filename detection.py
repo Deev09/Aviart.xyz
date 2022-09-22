@@ -199,7 +199,7 @@ listo = {"LIGHT": "/Users/deevyaswain/Desktop/avi/new/color_layers/peach.jpg", "
  "OLIVE" : "/Users/deevyaswain/Desktop/avi/new/color_layers/olive.jpg" }
 
 
-image = cv2.imread('safacopy.jpg')
+image = cv2.imread('pic.jpg')
 print("The type of this input is {}".format(type(image)))
 print("Shape: {}".format(image.shape))
 plt.imshow(image)
