@@ -14,9 +14,9 @@ Aviart is a platform that autogenerates avatars for content creators and streame
 
 # Timeline
 
-- ---Facial feature extraction--- 
-- ---Eye & skin color detection---
-- ---Preliminary rendering---
+- ~~Facial feature extraction
+- ~~Eye & skin color detection
+- ~~Preliminary rendering
 
 (October)
 - Shape detection for facial features 
